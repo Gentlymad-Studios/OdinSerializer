@@ -1,0 +1,16 @@
+{
+  "name": "com.gentlymad.graphviewbase",
+  "version": "0.0.1",
+  "displayName": "OdinSerializer",
+  "description": "Fast, robust, powerful and extendible .NET serializer built for Unity.",
+  "unity": "2022.2",
+  "documentationUrl": "https://github.com/Gentlymad-Studios/OdinSerializer/blob/master/README.md",
+  "changelogUrl": "https://github.com/Gentlymad-Studios/OdinSerializer/blob/master/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Gentlymad-Studios/OdinSerializer/blob/master/LICENSE.md",
+ "keywords": [],
+  "author": {
+    "name": "Gentlymad Studios",
+    "email": "m.guntrum@gentlymadstudios.com",
+    "url": "https://gentlymad.org"
+  }
+}
