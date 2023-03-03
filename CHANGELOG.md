@@ -9,3 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2023-02-18
 ### Added
 - Initial commit
+
+## [0.0.2] - 2023-03-03
+### Added
+- fixed wrong .dll settings for builds
